@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ToolTip
+comment0.text=\r\n\ A\ ToolTip\ is\ a\ yellow\ box\ with\ black\ text\ that\ disappears\ after\ \r\n\ a\ certain\ number\ of\ calls\ to\ act()\r\n\ \r\n\ Although\ you\ are\ welcome\ to\ modify\ this\ code,\ modifying\ this\r\n\ code\ is\ HIGHLY\ INADVISABLE.\ \r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 2/2018\r\n
+comment1.params=text
+comment1.target=ToolTip(java.lang.String)
+comment1.text=\r\n\ contructor\ to\ display\ a\ tooltip\ for\ 100\ act\ calls\r\n\ \r\n\ @param\ text\ the\ text\ displayed\ in\ the\ tooltip\r\n
+comment2.params=text\ life
+comment2.target=ToolTip(java.lang.String,\ int)
+comment2.text=\r\n\ contructor\ to\ display\ a\ tooltip\ for\ specified\ \#\ of\ act\ calls\r\n\ \r\n\ @param\ text\ the\ text\ displayed\ in\ the\ tooltip\r\n\ @param\ life\ the\ number\ of\ calls\ to\ display\ this\ for\r\n
+comment3.params=text\ delay
+comment3.target=void\ build(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ redraw()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ pretty\ easy\ -\ just\ do\ noting\ until\ you\ are\ to\ be\ removed.\ \r\n
+numComments=6

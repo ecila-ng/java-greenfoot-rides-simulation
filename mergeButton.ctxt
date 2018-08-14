@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=mergeButton
+comment0.text=\r\n\ A\ merge\ button\ to\ add\ more\ rides\ to\ the\ rides\ list\r\n\ \r\n\ @author\ Tran\ Nguyen\ \r\n\ @version\ 0.429\r\n
+comment1.params=
+comment1.target=mergeButton()
+comment2.params=
+comment2.target=void\ performAction()
+numComments=3

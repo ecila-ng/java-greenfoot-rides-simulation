@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ The\ world\ for\ Project\ 3\ with\ a\ size\ of\ 800\ x\ 600\r\n\ \r\n\ @author\ Tran\ Nguyen\ \r\n\ @version\ 0.429\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ load()
+comment2.text=\r\n\ Load\ rides\ into\ the\ array\r\n\ \r\n
+comment3.params=
+comment3.target=void\ merge()
+comment3.text=\r\n\ Add\ more\ rides\ to\ the\ array\r\n\ \r\n
+comment4.params=
+comment4.target=void\ sortByName()
+comment4.text=\r\n\ Sort\ the\ rides\ list\ alphabetically\r\n\ \r\n
+comment5.params=
+comment5.target=void\ sortByQueueLength()
+comment5.text=\r\n\ Sort\ the\ rides\ list\ by\ its\ queue\ length\ (by\ the\ number\ of\ people\ in\ line)\r\n\ \r\n
+comment6.params=
+comment6.target=void\ redrawArrayContents()
+comment6.text=\r\n\ Redraw\ the\ array\ after\ sorting,\ move\ objects\ to\ new\ location\r\n\ \r\n
+numComments=7
